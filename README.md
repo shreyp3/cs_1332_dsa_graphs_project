@@ -144,4 +144,4 @@ This project was completed for **CS 1332: Data Structures & Algorithms** at the 
 **Shrey**
 Computer Engineering @ Georgia Tech
 
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/shrey-patel25) · [GitHub](https://github.com/shreyp3)
